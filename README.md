@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi, I'm Ankit Kumar Singh
-######I'm a passionate and skilled frontend developer with 3.6 years of experience. I'm eager to contribute my expertise to the open source community and collaborate with like-minded developers to make a positive impact on the software world.
+> I'm a passionate and skilled frontend developer with 3.6 years of experience. I'm eager to contribute my expertise to the open source community and collaborate with like-minded developers to make a positive impact on the software world.
 <p align="left">
 </p>
 
