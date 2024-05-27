@@ -1,9 +1,7 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 # 👋 Hi, I'm Ankit Kumar Singh
-> I'm a passionate and skilled frontend developer with 3.6 years of experience. I'm eager to contribute my expertise to the open source community and collaborate with like-minded developers to make a positive impact on the software world.
+> I'm a passionate and skilled front-end developer with 3.8+ years of experience. I'm eager to contribute my expertise to the open-source community and collaborate with like-minded developers to make a positive impact on the software world.
 <p align="left">
 </p>
 
